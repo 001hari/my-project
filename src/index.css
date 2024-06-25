@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: 'Nothing-47';
+  src: url('./fonts/nothing-font-47.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Nothing-45';
+  src: url('./fonts/nothing-font-45.ttf') format('truetype');
+}
